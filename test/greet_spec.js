@@ -1,5 +1,5 @@
 // var expect = require("chai").expect
-var greet = require("../index")
+var greet = require("../lib/index")
 
 describe('greet', function() {
   it("is a dummy sucess case", function(){
